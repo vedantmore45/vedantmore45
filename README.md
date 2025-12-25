@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vedantmore45
-- 💼 I have 2.5 years of professional experience building web applications.
+- 💼 I have almost 3 years of professional experience building web applications.
 - 👀 I’m interested in frontend, backend, database development, cognitive development.
 - 🌱 I’m proficient in technologies like React.js, Node.js, Next.js, TypeScript, MongoDB, Express, AWS, Docker, etc.
 - 💞️ My preferred language is JavaScript/TypeScript.
